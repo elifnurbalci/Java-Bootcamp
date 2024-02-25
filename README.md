@@ -25,7 +25,7 @@
 ## Week 2 Preview
 🌟 From Methods to Object Oriented Programming
 
-In this week of training, there will be a gradual transition from basic concepts to object-oriented programming. There are 24 videos in total and the total of video content is 6 hours. The topics you will learn from this video content are as follows.
+In this week of training, there will be a gradual transition from basic concepts to object-oriented programming.
 
 🛠️ Scope of Methods: You will learn static methods, parameterized methods, definitions and uses of local variables and overloading methods in methods. You will also understand the use of recursive methods.
 
@@ -39,7 +39,7 @@ In this week of training, there will be a gradual transition from basic concepts
 First Project - Minesweeper
 
 ## Week 4 Preview
-This week, we're diving deeper into object-oriented programming, taking an important step in your software development journey. We will present you these comprehensive topics with a total of 28 video contents for a total of 9 hours and 54 minutes. The topics you will learn from this video content are as follows.
+This week, we're diving deeper into object-oriented programming, taking an important step in your software development journey.
 
 🛠️ Access Modifiers: Learn the keywords used to control access to your classes and elements.
 
@@ -58,7 +58,7 @@ In addition to the course content, you will reinforce what you have learned by d
 🎮 Game Introduction and Class Designs: Learn how to create the basic classes and design of a game. You will improve your game development skills by improving the game's character classes, map and area designs, shop item system and dangerous areas.
 
 ## Week 5 Preview
-Welcome to our fifth week! This week, we will take an important step in your software development journey and explore the intricacies of error trapping and data structures. We will also enter database topics and write our first queries. We will present you these comprehensive topics with a total of 28 video contents for a total of 5 hours and 51 minutes. The topics you will learn from this video content are as follows.
+Welcome to our fifth week! This week, we will take an important step in your software development journey and explore the intricacies of error trapping and data structures. We will also enter database topics and write our first queries. 
 
 🚨 We will examine how to handle errors that occur in your program with Exception Handling. You will learn to manage these error situations by using Try-Catch-Finally. You will see that you can create special error situations with throw and exception.
 
@@ -71,7 +71,7 @@ Welcome to our fifth week! This week, we will take an important step in your sof
 📊 You will learn about basic definitions and query operations with the SQL query language. You will see how to install the PostgreSQL database system. You will learn operators such as SELECT WHERE BETWEEN LIKE and DISTINCT, which are database query commands.
 
 ## Week 6 Preview
-Week six begins! This week, we will present you data reading and database operations for 6 hours and 40 minutes, with a total of 35 video content.
+Week six begins! This week, we will present you data reading and database operations.
 
 🔍 Data Reading: Learn the basics of reading data with Scanner Class.
 
@@ -84,7 +84,7 @@ Week six begins! This week, we will present you data reading and database operat
 🔄 JOIN Structures: Learn joining operations such as INNER JOIN, LEFT JOIN.
 
 ## Week 7 Preview
-We are here with the excitement of the seventh week! This week, we will develop a sample project together, with a total of 14 videos and 5 and a half hours of content.
+We are here with the excitement of the seventh week! This week, we will develop a sample project together.
 
 📝 Project Introduction: Learn the purpose and scope of the project.
 
